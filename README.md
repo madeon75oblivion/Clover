@@ -216,4 +216,4 @@ Clover is offered as a complete free version with all features and updates inclu
 Unlock the full potential of your Windows Explorer with Clover—download now and experience the difference!
 
 ---
-**Last updated:** 2026-11-01 08:28:48 UTC
+**Last updated:** 2026-11-01 15:37:52 UTC
